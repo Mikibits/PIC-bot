@@ -19,7 +19,7 @@ I also hope it reflects the dedication I can bring to a project, even as a hobby
 
 ## Success and Future version
 
-This project was a success up to the objectives I had at the time: the PCB design and code shown here worked as expected, once I got all the bits working together. But as expected, in the process I found all kinds of ways to do it better, which became the new designs you can find in the "Future (V2)" files (see branch "Future-v2").
+This project was a success up to the objectives I had at the time: the PCB design and code shown here worked as expected, once I got all the bits working together. But as expected, in the process I found all kinds of ways to do it better, which became the new designs you can find in the "Future (V2)" files (see branch "Future(v2)").
 
 ## Current State
 
